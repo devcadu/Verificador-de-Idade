@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(55, 116, 248);
+}
+#bg {
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 30px;
+}
+#texto {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#ano {
+    padding: 17px;
+}
+
+#verificar {
+    padding: 17px;
+}
+#masc {
+    border-radius: 8px;
+}
+
+#resultado {
+    text-align: center;
+}
+#imagem{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
